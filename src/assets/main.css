@@ -6788,7 +6788,7 @@ ul.tag-list li {
 }
 
 footer {
-  background: #f3f3f3;
+  background: #373a3c;
   margin-top: 3rem;
   padding: 1rem 0;
   position: absolute;
@@ -6801,8 +6801,8 @@ footer .logo-font {
 footer .attribution {
   vertical-align: middle;
   margin-left: 10px;
-  font-size: 0.8rem;
-  color: #bbb;
+  font-size: 0.9rem;
+  color: #fff;
   font-weight: 300;
 }
 
