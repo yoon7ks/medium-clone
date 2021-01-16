@@ -1,4 +1,5 @@
 # medium-clone
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+2021 front-study #1 medium clone
+>>>>>>> 22d467b06abff07ee9a4c4a4652c9445704b7d60
